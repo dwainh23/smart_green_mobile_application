@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+export 'package:smart_green_mobile_application/utils//fonts.dart';
 
 class FontStyles {
   static Color textColor1 = const Color(0xFF36502d);
