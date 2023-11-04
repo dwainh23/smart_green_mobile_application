@@ -1,6 +1,6 @@
 # smart_green_mobile_application
 
-smart green is amobile application for my graduation project.
+smart green is a mobile application for my graduation project.
 
 ## Getting Started
 
